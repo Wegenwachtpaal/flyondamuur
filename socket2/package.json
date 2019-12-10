@@ -1,0 +1,20 @@
+{
+    "name": "App",
+    "version": "0.0.1",
+    "description": "App",
+    "dependencies": {
+        "buffer": "^5.2.1",
+        "bufferstream": "^0.6.2",
+        "express": "^4.16.4",
+        "fs": "0.0.1-security",
+        "jquery": "^3.3.1",
+        "kinect2": "^0.1.6",
+        "socket.io": "latest",
+        "stream": "0.0.2",
+        "websocket": "^1.0.28",
+        "websocket-stream": "^5.3.0",
+        "ws": "^6.2.1",
+        "wss": "^3.3.4"
+    },
+    "author": "developer"
+}
