@@ -13,7 +13,7 @@
         "stream": "0.0.2",
         "websocket": "^1.0.28",
         "websocket-stream": "^5.3.0",
-        "ws": "^6.2.1",
+        "ws": "^7.4.6",
         "wss": "^3.3.4"
     },
     "author": "developer"
