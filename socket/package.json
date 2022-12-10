@@ -4,7 +4,7 @@
     "description": "App",
     "dependencies": {
         "bufferstream": "^0.6.2",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "socket.io": "latest",
         "socket.io-stream": "^0.9.1",
         "stream": "0.0.2"
